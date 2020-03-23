@@ -1,0 +1,25 @@
+### macOS ###
+.DS_Store
+
+
+### VisualStudioCode ###
+.vscode/
+
+### PyCharm ###
+.idea/
+
+### Python ###
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+
+### Project ###
+test/
+train/
+models/
+notebook/
