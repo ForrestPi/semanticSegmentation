@@ -43,6 +43,8 @@
 
 
 ### reference
-[upsample](http://arxiv.org/pdf/1903.02120v2.pdf)    
-
+[Decoders Matter for Semantic Segmentation:
+Data-Dependent Decoding Enables Flexible Feature Aggregation](http://arxiv.org/pdf/1903.02120v2.pdf)    
+[Location-aware Upsampling for Semantic Segmentation](https://arxiv.org/abs/1911.05250)    
+[CARAFE: Content-Aware ReAssembly of FEatures](https://arxiv.org/abs/1905.02188)    
 [CSDN](https://blog.csdn.net/qq_34919792/article/details/102697817)
