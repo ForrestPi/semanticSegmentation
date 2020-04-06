@@ -35,7 +35,14 @@
 
 
 
+轻量级通用上采样算子
+
+    Large receptive field
+    Content-aware
+    Lightweight
 
 
 ### reference
+[upsample](http://arxiv.org/pdf/1903.02120v2.pdf)    
+
 [CSDN](https://blog.csdn.net/qq_34919792/article/details/102697817)
